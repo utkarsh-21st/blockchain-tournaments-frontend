@@ -15,5 +15,5 @@ npm start
 ```
 
 ### Game
-![UI-1](https://github.com/utkarsh-21st/blockchain-tournaments-frontend/blob/master/images/ui1.png "UI")
-![UI-2](https://github.com/utkarsh-21st/blockchain-tournaments-frontend/blob/master/images/ui2.png "UI")
+![UI-1](https://github.com/utkarsh-21st/blockchain-tournaments-frontend/blob/master/images/ui1.jpeg "UI")
+![UI-2](https://github.com/utkarsh-21st/blockchain-tournaments-frontend/blob/master/images/ui2.jpeg "UI")
